@@ -64,6 +64,7 @@ I chose not to use alt text for the images because they are purely decorative. T
 
 
 **Original CSS Code:**
+
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -222,6 +223,7 @@ body {
 }
 
 **Accessible CSS Code:**
+
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
