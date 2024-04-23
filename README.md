@@ -62,6 +62,7 @@ I chose not to use alt text for the images because they are purely decorative. T
 
 </html> 
 
+Looking at the CSS Code I have highlighted the accessibility changes using ** **. These changes helped me make sure that this page is not only responsive but also accessible. 
 
 **Original CSS Code:**
 
@@ -229,6 +230,8 @@ I chose not to use alt text for the images because they are purely decorative. T
 	  }
 	}
 
+By changing the colors, the font size and weight, the margins, and the padding, I was able to make the words more readable and easily seen no matter the size of your screen. 
+
 **Accessible CSS Code:**
 
 	/* http://meyerweb.com/eric/tools/css/reset/ 
@@ -390,4 +393,4 @@ I chose not to use alt text for the images because they are purely decorative. T
 		}
 	}	
 
-By changing the colors, font weight and size, margins, and padding, I was able to make the words more readable and easily seen no matter the size of your screen. 
+
